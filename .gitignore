@@ -1,0 +1,37 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Virtual environment
+env/
+
+# Data files
+data/raw/
+*.csv
+*.tsv
+*.xlsx
+*.json
+
+# Outputs
+outputs/
+visualizations/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Python environment settings
+*.env
+.env/
